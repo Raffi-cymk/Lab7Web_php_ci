@@ -51,6 +51,17 @@ php spark serve
 
 ---
 
+## 🔄 Alur Program
+
+1. User membuka halaman artikel
+2. Controller (Artikel.php) menerima request
+3. Controller memanggil Model (ArtikelModel.php)
+4. Model mengambil data dari database
+5. Data dikirim kembali ke Controller
+6. Controller menampilkan data ke View
+
+---
+
 ## 📸 Screenshot Hasil
 
 ### 1. Struktur Database
