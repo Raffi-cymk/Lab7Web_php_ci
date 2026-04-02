@@ -56,7 +56,7 @@ php spark serve
 ### 1. Struktur Database
 
 "Struktur Database"
-
+<img width="1191" height="337" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/f9242faa-bd5a-42ee-80de-86cd7f5109ab" />
 
 Penjelasan:
 Menampilkan struktur tabel artikel yang terdiri dari id, judul, isi, dan slug.
@@ -65,7 +65,7 @@ Menampilkan struktur tabel artikel yang terdiri dari id, judul, isi, dan slug.
 ### 2. Halaman Awal CodeIgniter
 
 "CI4 Default"
-
+<img width="731" height="655" alt="Screenshot-2023-01-14-at-14 11 16" src="https://github.com/user-attachments/assets/4b3bfd09-706a-4b6b-9eb3-782100a887df" />
 
 Penjelasan:
 Menunjukkan bahwa instalasi CodeIgniter 4 berhasil dijalankan.
@@ -73,7 +73,7 @@ Menunjukkan bahwa instalasi CodeIgniter 4 berhasil dijalankan.
 
 ### 3. Halaman Admin Artikel
 
-
+<img width="1366" height="531" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/d17b28f3-b47a-4ae7-9d58-d7645b8cc979" />
 
 Penjelasan:
 Halaman admin digunakan untuk mengelola data artikel (tambah, edit, hapus).
@@ -81,7 +81,7 @@ Halaman admin digunakan untuk mengelola data artikel (tambah, edit, hapus).
 
 ### 4. Halaman Edit Artikel
 
-
+<img width="378" height="306" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/90f2a714-1011-44cd-8428-a8f31c928d5a" />
 
 Penjelasan:
 Form untuk mengubah data artikel yang sudah ada di database.
@@ -89,7 +89,7 @@ Form untuk mengubah data artikel yang sudah ada di database.
 
 ### 5. Halaman Daftar Artikel
 
-
+<img width="1366" height="471" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/cbbf52d4-1ced-4382-b3fd-89196ee64b0d" />
 
 Penjelasan:
 Menampilkan daftar artikel yang tersimpan dalam database.
