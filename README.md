@@ -55,7 +55,8 @@ php spark serve
 
 ### 1. Struktur Database
 
-"Struktur Database" (images/screenshot1.png)
+"Struktur Database"
+
 
 Penjelasan:
 Menampilkan struktur tabel artikel yang terdiri dari id, judul, isi, dan slug.
@@ -63,7 +64,8 @@ Menampilkan struktur tabel artikel yang terdiri dari id, judul, isi, dan slug.
 
 ### 2. Halaman Awal CodeIgniter
 
-"CI4 Default" (images/screenshot5.png)
+"CI4 Default"
+
 
 Penjelasan:
 Menunjukkan bahwa instalasi CodeIgniter 4 berhasil dijalankan.
@@ -71,7 +73,7 @@ Menunjukkan bahwa instalasi CodeIgniter 4 berhasil dijalankan.
 
 ### 3. Halaman Admin Artikel
 
-"Admin" (images/screenshot2.png)
+
 
 Penjelasan:
 Halaman admin digunakan untuk mengelola data artikel (tambah, edit, hapus).
@@ -79,7 +81,7 @@ Halaman admin digunakan untuk mengelola data artikel (tambah, edit, hapus).
 
 ### 4. Halaman Edit Artikel
 
-"Edit" (images/screenshot3.png)
+
 
 Penjelasan:
 Form untuk mengubah data artikel yang sudah ada di database.
@@ -87,7 +89,7 @@ Form untuk mengubah data artikel yang sudah ada di database.
 
 ### 5. Halaman Daftar Artikel
 
-"List" (images/screenshot4.png)
+
 
 Penjelasan:
 Menampilkan daftar artikel yang tersimpan dalam database.
